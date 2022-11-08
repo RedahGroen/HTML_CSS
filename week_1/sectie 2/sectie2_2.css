@@ -1,0 +1,27 @@
+h1,
+h6 {
+  margin: 0px;
+  font-size: 40px;
+  font-family: courier;
+  color: darkgreen;
+}
+.lettertype2 {
+  font-size: 30px;
+  font-family: courier;
+  color: red;
+}
+.lettertype3 {
+  font-size: 15px;
+  font-family: courier;
+  color: rgb(77, 139, 231);
+}
+.lettertype4 {
+  font-size: 30px;
+  font-family: courier;
+  color: blue;
+}
+h5 {
+  font-size: 20px;
+  font-family: courier;
+  color: green;
+}
