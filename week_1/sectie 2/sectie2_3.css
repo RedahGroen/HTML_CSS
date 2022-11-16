@@ -1,0 +1,85 @@
+h1 {
+  color: green;
+}
+h2 {
+  color: green;
+  size: 20px;
+  position: absolute;
+  margin-top: 325px;
+  margin-left: 350px;
+}
+
+h3 {
+  color: red;
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+h4 {
+  color: green;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+h5 {
+  color: green;
+  float: right;
+  font-size: 35px;
+  margin-top: -60px;
+}
+
+p {
+  color: green;
+}
+
+img {
+  border: 5px solid black;
+  padding: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+#bot {
+  width: 963px;
+  height: 250px;
+  border-top: 5px solid black;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 830px;
+  position: absolute;
+}
+.line {
+  border-top: 3px solid black;
+  height: 1px;
+}
+
+.img2 {
+  width: 170px;
+  height: 170px;
+  margin-left: 39%;
+  border-radius: 40%;
+  position: absolute;
+}
+
+.h1_1 {
+  color: green;
+  float: right;
+  margin-top: -775px;
+}
+
+.h2_1 {
+  color: red;
+  font-size: 30px;
+  position: absolute;
+  float: right;
+  margin-top: -745px;
+  margin-left: 925px;
+}
+
+.p2 {
+  position: absolute;
+  float: right;
+  margin-top: -700spx;
+  margin-left: 925px;
+}
