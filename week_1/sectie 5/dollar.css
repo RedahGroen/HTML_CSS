@@ -1,0 +1,6 @@
+.dollar {
+  content: "\0024";
+}
+span {
+  content: "\0024";
+}

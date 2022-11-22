@@ -1,0 +1,69 @@
+h1 {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  text-align: center;
+}
+#fulleft {
+  width: 10%;
+  height: 35px;
+  background-color: green;
+  margin-right: 20px;
+  float: left;
+}
+
+#oneleft {
+  width: 10%;
+  height: 35px;
+  background-color: yellow;
+  margin-right: 20px;
+  float: left;
+}
+
+#twoleft {
+  width: 10%;
+  height: 35px;
+  background-color: red;
+  margin-right: 20px;
+  float: left;
+}
+
+#tworight {
+  display: grid;
+  width: 10%;
+  height: 35px;
+  margin-right: 20px;
+  background-color: blue;
+  float: left;
+}
+
+#oneright {
+  width: 10%;
+  height: 35px;
+  margin-right: 20px;
+  background-color: green;
+  float: left;
+}
+
+#extraright {
+  width: 10%;
+  height: 35px;
+  margin-right: 20px;
+  background-color: yellow;
+  float: left;
+}
+
+#secxright {
+  width: 10%;
+  height: 35px;
+  margin-right: 20px;
+  background-color: red;
+  float: left;
+}
+
+#fullright {
+  width: 10%;
+  height: 35px;
+  background-color: blue;
+  float: left;
+}
